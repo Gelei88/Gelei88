@@ -2,8 +2,8 @@
 
  Backend Developer  
  Rust / Go  
- High Performance Systems  
-
+- X (Twitter): [@gelei58454476](https://x.com/gelei58454476)
+- Reddit: [One-Raise-9943](https://www.reddit.com/user/One-Raise-9943/)
 ## Skills
 
 - Rust
